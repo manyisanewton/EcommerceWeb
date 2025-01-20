@@ -1,0 +1,31 @@
+.list {
+    padding: 20px;
+    background-color: black;
+    color: aliceblue;
+    width: 500px;
+    border-radius: 8px;
+    border: chartreuse;
+    box-shadow: 5px 5px 5px  rgb(85, 87, 5);
+  }
+  
+  .list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list ul li {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+  }
+  
+  .list ul li button {
+    background-color: rgb(5, 90, 48);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px  rgb(94, 95, 3);
+  }
+  

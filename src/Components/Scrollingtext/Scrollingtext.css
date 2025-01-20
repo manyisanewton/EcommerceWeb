@@ -1,0 +1,28 @@
+.scrolling-text-container {
+    width: 100%; /* Full width of the parent */
+    overflow: hidden; /* Hides the overflowing text */
+    background-color: rgb(0, 66, 128); /* Background color of the scrolling text */
+    border-radius: 4px; /* Rounded corners */
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+  }
+  
+  .scrolling-text {
+    display: inline-block;
+    white-space: nowrap; /* Prevents text wrapping */
+    font-size: 25px; /* Font size */
+    color: white; /* Text color */
+    animation: scroll 20s linear infinite; /* Scroll animation */
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(100%); /* Start off-screen to the right */
+    }
+    100% {
+      transform: translateX(-100%); /* End off-screen to the left */
+    }
+  }
+  
