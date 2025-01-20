@@ -57,7 +57,7 @@ A visually appealing **Scrolling Text** component to showcase **special deals, d
 
 
 ## 🌐 Live Demo
-Check out the live version of the website: 
+Check out the live version of the website: https://ecommerceonlineapp2-ie6hmadzc-manyisanewtons-projects.vercel.app/
 
 ---
 
