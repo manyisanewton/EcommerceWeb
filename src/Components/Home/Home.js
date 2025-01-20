@@ -11,14 +11,23 @@ import Search from "../Search/Search";
 
 const data = [
   { id: 1, name: "T-Shirt", price: 20 },
+
   { id: 2, name: "Jeans", price: 40 },
+
   { id: 3, name: "Sneakers", price: 60 },
+
   { id: 4, name: "Hat", price: 15 },
+
   { id: 5, name: "Socks", price: 5 },
+
   { id: 6, name: "Jacket", price: 100 },
+
   { id: 7, name: "Belt", price: 25 },
+
   { id: 8, name: "Scarf", price: 20 },
+
   { id: 9, name: "Gloves", price: 30 },
+  
   { id: 10, name: "Backpack", price: 80 },
 ];
   

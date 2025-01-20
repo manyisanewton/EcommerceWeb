@@ -2,19 +2,24 @@
     padding: 10px;
     background-color: #080c2c;
     border-radius: 8px;
+
+    box-shadow: 5px 5px 5px  rgb(177, 180, 2);
   }
   
   .search-container h2 {
     margin-bottom: 10px;
+    width: 200px;
   }
   
   .search-container input {
-    width: 100%;
+   
+    width: 400px;
     padding: 10px;
     margin-bottom: 15px;
     border: 1px solid #c9dd10;
     border-radius: 4px;
     font-size: 16px;
+    background-color: #b9aeae;
   }
   
   .search-container ul {

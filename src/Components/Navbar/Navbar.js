@@ -9,13 +9,7 @@ function Navbar() {
       </div>
 
       <div className="topbarCenter">
-        {/*<div className="searchbar">
-          <SearchIcon className="searchIcon" />
-          <input
-            placeholder="Search for friends, posts, or videos"
-            className="searchInput"
-          />
-        </div>*/}
+        <h1>🔥 Fresh Styles, Unbeatable Prices! Shop Now!</h1>
       </div>
 
       <div className="topbarRight">
